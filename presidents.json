@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "year": 1789,
+    "president": "George Washington",
+    "party": "Unaffiliated"
+  },
+  {
+    "id": 2,
+    "year": 1797,
+    "president": "John Adams",
+    "party": "Federalist"
+  },
+  {
+    "id": 3,
+    "year": 1801,
+    "president": "Thomas Jefferson",
+    "party": "Democratic-Republican"
+  },
+  {
+    "id": 4,
+    "year": 1809,
+    "president": "James Madison",
+    "party": "Democratic-Republican"
+  },
+  {
+    "id": 5,
+    "year": 1817,
+    "president": "James Monroe",
+    "party": "Democratic-Republican"
+  } 
+]
