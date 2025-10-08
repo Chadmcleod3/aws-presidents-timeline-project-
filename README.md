@@ -8,7 +8,7 @@ The primary focus was on configuring the supporting cloud infrastructure and sec
  Live Deployment 
 The application is hosted on Amazon Web Services using a Serverless Static Architecture.
 
-Website Link - http://chad-mcleod-timeline.s3-website.us-east-2.amazonaws.com
+Website Link - s3://chad-mcleod-timeline/presidents-timeline-app/index.html
 
 Skills - Managing the platform S3 for website hosting, improving security measures by implementing S3 Bucket Policies, and 
 handled the JSON data that contained the president's information, which was served directly from S3.
